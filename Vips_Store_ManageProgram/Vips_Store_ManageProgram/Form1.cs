@@ -122,5 +122,10 @@ namespace Vips_Store_ManageProgram
                     break;
             }
         }
+
+        private void Form1_Table_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

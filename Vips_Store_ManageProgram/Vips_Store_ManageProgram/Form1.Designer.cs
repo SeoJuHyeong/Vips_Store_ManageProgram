@@ -156,6 +156,7 @@
             this.Controls.Add(this.Customer_Manage);
             this.Name = "Form1_Table";
             this.Text = "Table 현황";
+            this.Load += new System.EventHandler(this.Form1_Table_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
